@@ -1,6 +1,5 @@
 # System-Design-wiki
 
-![image](https://github.com/al1kite/System-Design-wiki/assets/102217402/ea6899e4-3d8b-4a1f-a22f-59d7e6b58100)
 대규모 시스템 설계 관련 공부를 진행하고 정리하는 페이지 입니다.
 
 ## 대규모 시스템 설계 Part 1
