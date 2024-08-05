@@ -1,7 +1,8 @@
 # System-Design-wiki
 
-![image](https://github.com/al1kite/System-Design-wiki/assets/102217402/ea6899e4-3d8b-4a1f-a22f-59d7e6b58100)
+![image (1)](https://github.com/al1kite/System-Design-wiki/assets/102217402/d8bdd46c-0ba7-4d7d-a9f3-0cb3ad08b141)
 대규모 시스템 설계 관련 공부를 진행하고 정리하는 페이지 입니다.
+
 
 ## 대규모 시스템 설계 Part 1
 
@@ -111,6 +112,7 @@
   
   <details>
     <summary>Best서적마이크로서비스 개발(레이어드 아키텍처 ,CQRS)</summary>
+   
     __01-1 패키지 구조 정의: 레이어드 아키텍처 + 비지니스로직레이어 구현
    
     __01-2 데이터 엑세스 레이어/프리젠테이션 레이어 구현/API 테스트 수행    
@@ -118,6 +120,7 @@
 
   <details>
     <summary>EDA구현(기본 Pub & Sub)</summary>
+   
     __01-1 내부영역: 도메인헥사곤 (대여서비스의 도메인이벤트 정의)
    
     __01-2 내부영역: 애플리케이션 헥사곤 구현(대여서비스)
@@ -137,6 +140,7 @@
 
   <details>
     <summary>EDA구현 Advance (SAGA)</summary>
+   
     __01-1 이벤트 흐름 설계 변경
    
     __01-2 도서서비스의 응답 메시지 정의 및 응답 발송 구현
